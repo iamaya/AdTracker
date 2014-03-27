@@ -47,7 +47,7 @@ namespace TaskyAndroid.Screens
                 _capturedImage.SetImageBitmap(bitmap);
             }
 
-            _txtComments.Text = reportData[0] + System.Environment.NewLine;
+            _txtComments.Text = reportData[0] + System.Environment.NewLine + System.Environment.NewLine;
             _txtComments.Text += reportData[1] + System.Environment.NewLine;
 
         }
