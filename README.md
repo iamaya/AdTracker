@@ -1,3 +1,14 @@
+AdTracker
+==========
+
+This is a simple Android add intended to understand cross-platform features using Xamarin.
+This app uses the sample "Tasky" application from the Xamarin website.
+
+Authors
+-------
+
+Imaya Kumar Jagannathan
+
 Tasky
 =====
 
